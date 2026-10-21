@@ -52,6 +52,6 @@ R-Programming-Practicals/
 
 ## Author
 
-**Piyush Nimbalkar**
+**Harshal Patil**
 
 B.Tech Computer Science (AI & ML)
